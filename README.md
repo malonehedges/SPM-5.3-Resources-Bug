@@ -9,3 +9,4 @@ To see this in action
 
 Note:
 - this is broken whether or not you manually specify the resource in the `Packge.swift` configuration.
+- the previews work in the main application target but not in a seperate target like the SomeFeature target added
